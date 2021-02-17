@@ -70,6 +70,19 @@ li a:hover {
   color: white;
 }
 
+.div2 {
+  background-color: black;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 5%;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 5px;
+  border-color: red;
+  color: white;
+  text-align: center;
+}
+
 .bottomdiv1 {
   background-color: red;
   color: black;
@@ -86,4 +99,9 @@ li a:hover {
   background-color: black;
   color: white;
   font-size: 20px;
+}
+
+.a1 {
+  text-decoration: none;
+  color: red;
 }

@@ -5,6 +5,6 @@
   </li>
   <li class="li"> <a class="a" href="characters.php"><?php echo $characters ?></a>
   </li>
-  <li class="login"> <a class="a" href="characters.php"><?php echo $register ?></a>
+  <li class="login"> <a class="a" href="login.php"><?php echo $login ?></a>
   </li>
 </ul>
