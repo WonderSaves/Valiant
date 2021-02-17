@@ -1,8 +1,10 @@
 <ul class="navbar">
-  <li class="li"> <a class="home" href="#">Valiant</a>
+  <li class="li"> <a class="home" href="index.php">Valiant</a>
   </li>
-  <li class="li"> <a class="a" href="#">Historia</a>
+  <li class="li"> <a class="a" href="history.php"><?php echo $history; ?></a>
   </li>
-  <li class="li"> <a class="a" href="#">Personajes</a>
+  <li class="li"> <a class="a" href="characters.php"><?php echo $characters ?></a>
+  </li>
+  <li class="login"> <a class="a" href="characters.php"><?php echo $register ?></a>
   </li>
 </ul>

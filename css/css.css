@@ -2,6 +2,10 @@
   background-color: #444444;
   margin: 0;
   padding: 0;
+  background-image: url('https://cdn.discordapp.com/attachments/776387486557536273/811553931914117131/background.PNG');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 ul {
@@ -32,6 +36,10 @@ li a:hover {
   color: black;
 }
 
+.login {
+  float: right;
+}
+
 .home {
   display: block;
   color: black;
@@ -39,4 +47,43 @@ li a:hover {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+.div0 {
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-top: 5%;
+  color: red;
+  text-align: center;
+  font-size: 100px;
+}
+
+.div1 {
+  background-color: black;
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-top: 5%;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 5px;
+  border-color: red;
+  color: white;
+}
+
+.bottomdiv1 {
+  background-color: red;
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+
+.bottomdiv2 {
+  background-color: black;
+}
+
+.bottomdiv3 {
+  margin-left: 12%;
+  background-color: black;
+  color: white;
+  font-size: 20px;
 }
