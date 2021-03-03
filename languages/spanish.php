@@ -7,6 +7,17 @@ $developers = "Desarrolladores";
 $user = "Usuario";
 $passwd = "Contraseña";
 $passwd2 = " Confirmar contraseña";
+$indexTitle1 = "¿Quienes somos?";
+$indexText1 = "Somos un grupo que, siguiendo la metodología SCRUM iniciamos un proyecto para
+la creación y desarrollo de un videojuego. Todo surgió entre tres alumnos del CES Lope de Vega
+de Córdoba que decidieron crear un juego que se adaptase a sus gustos. Recogiendo ideas de otros
+juegos, series y películas para mejorar la adaptación de su historia original con el universo
+ya establecido por otros fans y productores, tanto de cine como de videojuegos de dicho género.";
+$indexTitle2 = "Nuestro objetivo";
+$indexText2 = "Nuestro objetivo es crear un juego que todo el mundo pueda disfrutar y se adapte
+a la personalidad del jugador, ya sea más conservador o más arriesgado durante el curso de su
+aventura por el Reino de Edelaiah.";
+$indexContacto = "Contactanos si tienes alguna sugerencia";
 $historyTextP1 = "Durante siglos, los humanos y los elfos esclavizaron a los orcos debido a su fuerza,
 capacidad de no enfermar, y su resistencia. Estos, eran tratados como lo peor, se les
 daba los trabajos mas duros, como por ejemplo la construcción de muros, en la que
@@ -40,14 +51,35 @@ custodiada por un dragón de Xare, una de las razas mas inteligentes de dragones
 estaba entrenado específicamente para atacar a orcos cuando le diesen la señal.
 Debido a la inteligencia de dicho dragón el Orbe no podía dominarle por lo que Urrek
 decidió no atacar a la ciudad por el momento.";
-$charactersTextValiant = "Valiant: Un joven que estaba decido a triunfar en la vida. Su seño se
+$charactersTextValiant = "Valiant: Un joven que estaba decido a triunfar en la vida. Su sueño se
 vió truncado por la invasión de su ciudad nativa, Dalingas a manos de un ejercito de orcos cuando
 el todavía era un niño, ante su impotencia de ver a su madre ser ejecutada por el orco que dirigía
-el asalto juró venganza y muerte a todos los que se interpusiesen en su camino";
+el asalto juró venganza y muerte a todos los que se interpusiesen en su camino.";
 $charactersTextGladios = "Gladios: Uno de los mercenarios mas temidos por los orcos, ya no
-solo porque se dedica a cazarlos si no porque era un asesino letal y despiadado. Debido a su destreza
+solo porque se dedica a cazarlos si no porque es un asesino letal y despiadado. Debido a su destreza
 y su necesidad de dinero se convirtió en un sanguinario mercenario, que algunos humanos contrataban para 
 'saldar' sus deudas con algunos orcos.";
-$charactersText
-$indexText = " ";
+$charactersTextTaely = "Taely: Una bruja elfa que participó en la antigua guerra. Debido a su participación
+en la guerra, se planteó crear un encantamiento que le permitiese no envejecer, y a su vez, no morir por
+causas naturales. Esta consiguió dar con la clave para crear el encantamiento pero tras utilizarlo en
+si misma olvidó la esencia del encantamiento debido a la fatiga temporal que le causó este. Debido
+a estos hechos, se volvió precavida y desconfiada.";
+$charactersTextKrulom = "Krulom: Un desertor orco extremadamente inteligente para los de su raza.
+Este tras participar en el asalto a Dalingas se dió cuenta de las verdaderas intenciones de Urrek, por
+lo que huyó antes de que Urrek tomase el control del Orbe para no sucumbir ante el.";
+$charactersTextUrrek = "Urrek: Un orco que desde su nacimiento destacó sobre los demás por su retorcida mente
+brillante. Desde su infancia fue rechazado por los de su especie por ser diferente a los demas, pero con el
+paso del tiempo empezó a comprender como controlar a los orcos con mentes más débiles solo con palabras.
+Pero se dió cuenta que algunos otros no sucumbian a sus encantos porque lo que se obsesionó con el Orbe de
+Hael. Esta obsesión provocó que incitase a los demas orcos a una revelión contra los elfos y humanos.";
+$charactersTextTroug = "Troug: 'Un grandullón muy bestia, corto de inteligencia', almenos así es como le
+definen el resto de orcos. El simplemente nació y fue criado para ser una bestia de guerra, nunca se
+esforzaron en darle una educación, a pesar de que demostraba una capacidad para el apredizaje excelente.
+Su educación simplemente se centró en la regla del ADM 'Aplastar, destrozar, matar'. Las unicas palabras
+que esta bestia sabe pronunciar correctamente.";
+$charactersTextRegrug = "Regrug: Un orco todo lo contrario a grande y fuerte. Debido a su tamaño y debilidad
+todos pensaban que nunca destacaría, pero contratodo pronóstico consiguió ser elegido como uno de los comandantes
+defensores de Ogkrum. Esto no se debe a su capacidad física si no por su personalidad tramposa, cobarde y manipuladora.
+Este, es capaz de huir de ti llevandote a una trampa mortal donde disfrutarás de un espectaculo de pirotecnia en primera
+persona.";
 ?>
