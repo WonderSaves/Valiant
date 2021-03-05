@@ -14,7 +14,7 @@ de Córdoba que decidieron crear un juego que se adaptase a sus gustos. Recogien
 juegos, series y películas para mejorar la adaptación de su historia original con el universo
 ya establecido por otros fans y productores, tanto de cine como de videojuegos de dicho género.";
 $indexTitle2 = "Nuestro objetivo";
-$indexText2 = "Nuestro objetivo es crear un juego que todo el mundo pueda disfrutar y se adapte
+$indexText2 = "Nuestro objetivo es crear un juego que todo el mundo pueda disfrutar y que se adapte
 a la personalidad del jugador, ya sea más conservador o más arriesgado durante el curso de su
 aventura por el Reino de Edelaiah.";
 $indexContacto = "Contactanos si tienes alguna sugerencia";
